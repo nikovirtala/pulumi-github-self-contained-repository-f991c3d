@@ -1,0 +1,4 @@
+name: pulumi-github-self-contained-repository
+runtime: nodejs
+description: Pulumi program to create GitHub repository and commit the content to
+  it
